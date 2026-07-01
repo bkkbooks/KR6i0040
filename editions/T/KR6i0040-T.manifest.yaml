@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6i0040/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0040/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三彌勒經疏
+  identifiers:
+    krp: KR6i0040
+    cbeta: T38n1774
+    cbeta_old_id: T38n1774
+    authorityid: CA0002734
+    json_key: T1774
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1774.xml
+    old_id: T38n1774
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0040_000-T.yaml, hash: 'sha256:7c3c0d1538f25e88ce6e58b14a6872751a7f6e8ad430848fc727c41c0b4213fa'}
+  - {seq: 1, filename: KR6i0040_001-T.yaml, hash: 'sha256:042a3a1c84bda9cbd335364dc84f7bd45128c4426c9ca42e4191e20eff90b697'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0040_000-T.markers.yaml, hash: 'sha256:06d12d2353e6bf3daf103cbc25e859e6858901548811545bfef6448a0bdb4893'}
+  - {seq: 1, role: markers, filename: assets/KR6i0040_001-T.markers.yaml, hash: 'sha256:b2d081292cd637db75c4f8153f11404c645a3f9c5a5d041dc95c75d8ca2fef60'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0040_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 33648
+  label: 三彌勒經疏
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0040_T_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 彌勒上生經料簡記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0040_T_001-mulu-2
+    span:
+    - body
+    - 23699
+    - 23699
+  label: 彌勒下生經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0040_T_001-mulu-3
+    span:
+    - body
+    - 30101
+    - 30101
+  label: 彌勒成佛經
+  type: mulu
+  level: 1
+hash: sha256:1acd45477c76288755cf5c43baffba875fd47781adf6180f25df77088756503c

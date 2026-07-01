@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0040/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三彌勒經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1774.xml
+    old_id: T38n1774
+hash: sha256:7c3c0d1538f25e88ce6e58b14a6872751a7f6e8ad430848fc727c41c0b4213fa
