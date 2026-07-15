@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0040/v1
 canonical_location: https://kanripo.org/bkk/KR6i0040/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 三彌勒經疏
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0040_000.yaml, hash: 'sha256:7c3c0d1538f25e88ce6e58b14a6872751a7f6e8ad430848fc727c41c0b4213fa'}
-  - {seq: 1, filename: KR6i0040_001.yaml, hash: 'sha256:042a3a1c84bda9cbd335364dc84f7bd45128c4426c9ca42e4191e20eff90b697'}
+  - {seq: 1, filename: KR6i0040_001.yaml, hash: 'sha256:3112d8c86d970cfdbc006ebd3aa8c7636ecc681087a577668a1c0a99daaaf26d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0040_000.markers.yaml, hash: 'sha256:74d413dfa1af6bdc15ab1652f6cac3354f3b6fe023f565bc0994646514907d75'}
-  - {seq: 1, role: markers, filename: assets/KR6i0040_001.markers.yaml, hash: 'sha256:30043e6d408e64c7601b7e37ee232f69cb6b2d44d2b09f9c62803f7431113c7a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0040_001.markers.yaml, hash: 'sha256:36ff4cdf2f8fcc4a951b21711fb4c164f86e5f82e6d6bea93e669cab542d21fb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -70,4 +70,7 @@ table_of_contents:
   label: 彌勒成佛經
   type: mulu
   level: 1
-hash: sha256:3d6671341cd9c84ab4ce380f495f667dfd68bfad8208d211cf325584b365f899
+hash: sha256:d04ffdfd06dea6b55820206ad72f68b54f45c39cd37861760344026cac67dc1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
